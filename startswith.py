@@ -1,6 +1,6 @@
 # Generate countries whose names start with a certain letter and print capital of them.
 
-import capital-rd
+from capital-rd.py import main(items, )
 
 country = str(input(f'Enter country name: '))
 
